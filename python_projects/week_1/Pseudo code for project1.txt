@@ -1,0 +1,26 @@
+Question 1.
+1.	Prompt the user to enter the principal amount (p).
+2.	Prompt the user to enter the interest rate (r).
+3.	Prompt the user to enter the period (t).
+4.	Convert the interest rate (r) from a percentage to a decimal by dividing it by 100 and assigning it to a variable (s).
+5.	Set A = p * (1 + s * t).
+6.	Print A.
+
+Question 2.
+1.	Prompt the user to input the principal amount (p).
+2.	Prompt the user to input the interest rate (r).
+3.	Prompt the user to input the period (t).
+4.	Prompt the user to input the number of times interest is compounded (n).
+5.	Set A = p * (1 + (r/n))**(n*t).
+6.	Print A.
+
+Question 3.
+1.	Prompt the user to input the period
+2.	Prompt the user to input the interest rate (r).
+3.	Prompt the user to input the time period (t).
+4.	Prompt the user to input the number of payments (n).
+5.	Calculate the total number of payments (N) as N = n * t.
+6.	Calculate the interest rate per payment (R) as R = r / n.
+7.	Calculate the value of (1 + R) raised to the power of N and store it in variable (P) as P = (1 + R) ** N.
+8.	Calculate the annuity factor (A) using the formula A = (P - 1) / R.
+9.	Print A.
