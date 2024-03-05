@@ -1,0 +1,5 @@
+alice Pa$$w0rd
+bob 12345
+charlie secretpass
+david davidpass
+emma emmapass

@@ -1,0 +1,6 @@
+Moses csc201
+Desmond csc101
+Henry suasage
+user1 password123
+user2 pass with spaces
+user3 secretPassword
